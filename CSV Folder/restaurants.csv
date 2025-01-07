@@ -1,0 +1,7 @@
+﻿restaurant_id,name,cuisine_type,rating,location,total_tables,table_configuration,opening_hours,closing_hours
+#001,Restaurant 1,Indian,5,Location 1,10,4-Seater,9AM,10PM
+#002,Restaurant 2,Indian,5,Location 2,10,2-Seater,7AM,10PM
+#003,Restaurant 3,Japanese,4,Location 3,8,4-Seater,9AM,10PM
+#004,Restaurant 4,Japanese,4,Location 4,8,2-Seater,7AM,10PM
+#005,Restaurant 5,European,3,Location 5,6,4-Seater,9AM,10PM
+#006,Restaurant 6,European,3,Location 6,6,2-Seater,7AM,10PM
